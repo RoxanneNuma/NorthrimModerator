@@ -1,1 +1,43 @@
 /* You can add global styles to this file, and also import other style files */
+@import "~@angular/material/prebuilt-themes/indigo-pink.css";
+
+.example-form {
+    min-width: 150px;
+    max-width: 500px;
+    width: 100%;
+  }
+  
+  .example-full-width {
+    width: 100%;
+  }
+
+.example-card {
+    max-width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    font-size:14px;
+    background-color: #e9e9e9;
+  }
+
+  .example-header-image {
+    background-image: url('https://zupimages.net/up/19/02/sj3p.png');
+    background-size: cover;
+  }
+
+  .example-header-image2 {
+    background-image: url('https://zupimages.net/up/19/02/afuw.png');
+    background-size: cover;
+  }
+
+  .example-header-image3 {
+    background-image: url('https://zupimages.net/up/19/02/oos4.png');
+    background-size: cover;
+  }
+
+  .rappeltable{
+      font-size:11px;
+      text-align:justify;
+      margin-top:20px;
+  }
